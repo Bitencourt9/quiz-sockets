@@ -1,1 +1,5 @@
 br\com\projeto\App.class
+br\com\projeto\Cliente.class
+br\com\projeto\Servidor.class
+br\com\projeto\Pergunta.class
+br\com\projeto\GerenciadorCliente.class

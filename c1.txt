@@ -1,0 +1,5 @@
+? Conectado ao servidor em localhost:5000
+
+
+??  Conexão encerrada pelo servidor.
+? Desconectado do servidor.

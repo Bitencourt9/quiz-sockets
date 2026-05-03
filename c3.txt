@@ -1,0 +1,3 @@
+? Erro: Não foi possível conectar ao servidor em localhost:5000
+Certifique-se de que o servidor está rodando.
+? Desconectado do servidor.
