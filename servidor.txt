@@ -1,0 +1,14 @@
+Picked up JAVA_TOOL_OPTIONS: -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8
+🚀 Servidor iniciado na porta 5000
+⏳ Aguardando 3 clientes...
+
+✅ Cliente 1 conectado.
+✅ Cliente 2 conectado.
+✅ Cliente 3 conectado.
+
+📊 Todos conectados. Iniciando o quiz simultaneamente...
+[Servidor] Cliente 2 iniciando o quiz.
+[Servidor] Cliente 3 iniciando o quiz.
+[Servidor] Cliente 1 iniciando o quiz.
+
+✅ Servidor finalizado com sucesso.
